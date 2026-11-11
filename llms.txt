@@ -24,6 +24,9 @@
 - [Electrical installation service in Lewisville](https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/electrical-installation-service-in-lewisville/): Electrical installation service in Lewisville with practical project guidance for your home. Call Raymond & Sons Electric to discuss what you need today.
 - [Best electrical installation service in Lewisville](https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/best-electrical-installation-service/): Find the best electrical installation service in Lewisville with clear project guidance. Call Raymond & Sons Electric today to discuss your needs.
 
+## Newsroom
+- [Raymond & Sons Electric Publishes New Guide to Electrical Installation Service Lewisville TX](https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/news/2026-11-11-raymond-sons-electric-publishes-new-guide-to/): Raymond & Sons Electric published a guide to Electrical Installation Service Lewisville TX, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-11)
+
 ## Pages
 - [Electrical Installation Service in Lewisville, Texas](https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/): Get help planning electrical work for your home or property from a local Lewisville electrical installation service. Call +1469-425-8647.
 - [About Raymond & Sons Electric](https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/about/): About Raymond & Sons Electric, Lewisville.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/news/rss.xml)
 - [Main resource site](https://raymond-sons-electric-lewisville.localwebsites.chatgpt.site)

@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/sitemap.xml
+Sitemap: https://local-business-guides.github.io/raymond-and-sons-electric-lewisville/news-sitemap.xml
